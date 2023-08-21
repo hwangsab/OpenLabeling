@@ -18,16 +18,16 @@ import yaml
 
 #***#***#***#***#***#***# Change these values as needed #***#***#***#***#***#***#
 										                                                            #
-# Define the paths to the input and output directories from OpenLabeling	      #
-input_dir = "/home/<username>/OpenLabeling/main/input"				                  #
-output_dir = "/home/<username>/OpenLabeling/main/output/YOLO_darknet"		        #
-class_list_file = "/home/<username>/OpenLabeling/main/class_list.txt"		        #
+# Define the paths to the input and output directories from OpenLabeling
+input_dir = "/home/<username>/OpenLabeling/main/input"
+output_dir = "/home/<username>/OpenLabeling/main/output/YOLO_darknet"
+class_list_file = "/home/<username>/OpenLabeling/main/class_list.txt"
 										                                                            #
-# Define a name for your dataset: 					                              	    #
-dataset_name = "fruits"					                                                #
+# Define a name for your dataset:
+dataset_name = "fruits"	
 										                                                            #
-# Define the path for the datasets directory					                          #
-datasets_dir = "/home/<username>/datasets"					                            #
+# Define the path for the datasets directory
+datasets_dir = "/home/<username>/datasets"
 										                                                            #
 #***#***#***#***#***#***#***#***#***#***#***#***#***#***#***#***#***#***#***#***#
 
